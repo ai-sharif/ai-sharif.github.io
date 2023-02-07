@@ -75,7 +75,7 @@ params:
       - name: پست‌ها
         url: posts
       - name: تگ‌ها
-        url: tags
+        url: fatags
 
   # home-info mode
   homeInfoParams:
