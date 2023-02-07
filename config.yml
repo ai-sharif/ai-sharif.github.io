@@ -1,9 +1,9 @@
-baseURL: https://papermod-farsi.netlify.app
+baseURL: https://ai-sharif.github.io/
 languageCode: 'fa'
 defaultContentLanguage: 'fa'
-title: 'یک قالب وبلاگ'
+title: 'گروه هوش مصنوعی دانشگاه شریف'
 theme: "PaperMod"
-paginate: 5
+paginate: 10
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,7 +19,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: "هوش مصنوعی دانشگاه شریف"
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -61,7 +61,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
@@ -76,17 +76,17 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: سلام امیر پورمند هستم
+    Title: "گروه هوش مصنوعی دانشگاه شریف"
     Content: >
-        سلام اینجا قدری درباره همه چیز می‌نویسم
+        در اینجا راجع به قوانین و مواردی مهم در تحصیلات تکمیلی دانشگاه شریف صحبت می‌کنیم.
 
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/pourmand_amir"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/"
-    - name: github
-      url: "https://github.com/pourmand1376"
+  # socialIcons:
+  #   - name: twitter
+  #     url: "https://twitter.com/pourmand_amir"
+  #   - name: stackoverflow
+  #     url: "https://stackoverflow.com/"
+  #   - name: github
+  #     url: "https://github.com/pourmand1376"
 
   analytics:
     google:
@@ -102,7 +102,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/ai-sharif/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
