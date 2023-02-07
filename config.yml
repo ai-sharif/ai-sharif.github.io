@@ -3,7 +3,7 @@ languageCode: 'fa'
 defaultContentLanguage: 'fa'
 title: 'گروه هوش مصنوعی دانشگاه شریف'
 theme: "PaperMod"
-paginate: 10
+paginate: 5
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -62,16 +62,19 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    title: گروه هوش مصنوعی دانشگاه شریف
+    subtitle: >
+      این صفحه توسط دانشجویان با همکاری بعضی اساتید هوش مصنوعی اداره می‌شود. 
+      در اینجا راجع به قوانین و فرم‌ها و موارد مرتبط با تحصیلات تکمیلی صحبت می‌کنیم. 
+
+    imageUrl: "/images/sharif_university_logo.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: دانشگاه شریف
     buttons:
-      - name: Posts
+      - name: پست‌ها
         url: posts
-      - name: Tags
+      - name: تگ‌ها
         url: tags
 
   # home-info mode
