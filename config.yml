@@ -67,10 +67,10 @@ params:
       این صفحه توسط دانشجویان با همکاری بعضی اساتید هوش مصنوعی اداره می‌شود. 
       در اینجا راجع به قوانین و فرم‌ها و موارد مرتبط با تحصیلات تکمیلی صحبت می‌کنیم. 
 
-    imageUrl: "/images/sharif_university_logo.jpg"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: دانشگاه شریف
+    # imageUrl: "static/images/sharif_university_logo.jpg"
+    # imageWidth: 120
+    # imageHeight: 120
+    # imageTitle: دانشگاه شریف
     buttons:
       - name: پست‌ها
         url: posts
