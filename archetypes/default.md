@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 tags: ["تگ‌ها"]
 author: "نام نویسنده"
 description: "توضیح پست"
