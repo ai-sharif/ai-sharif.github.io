@@ -62,11 +62,12 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: گروه هوش مصنوعی دانشگاه شریف
+    title: گروه هوش مصنوعی دانشگاه شریف 
     subtitle: >
       این صفحه توسط دانشجویان با همکاری بعضی اساتید هوش مصنوعی اداره می‌شود. 
       در اینجا راجع به قوانین و فرم‌ها و موارد مرتبط با تحصیلات تکمیلی صحبت می‌کنیم. 
-       می‌خوایم، فرآیند‌های موجود در دانشگاه رو برای دانشجو شفاف‌تر و ساده‌تر کنیم. شفاف از این نظر که ابهامی از نظر قانونی وجود نداشته باشه و ساده از ااین نظر که فرم‌ها و بقیه موارد مرتبط رو از یکجا برداره و استفاده کنه. 
+       می‌خوایم، فرآیند‌های موجود در دانشگاه رو برای دانشجو شفاف‌تر و ساده‌تر کنیم. شفاف از این نظر که ابهامی از نظر قانونی وجود نداشته باشه و ساده از این نظر که فرم‌ها و بقیه موارد مرتبط رو از یکجا برداره و استفاده کنه. 
+       خلاصه بگم این ویکی دانشگاه شریف هست که دانشجوها می‌نویسند. 
 
     # imageUrl: "static/images/sharif_university_logo.jpg"
     # imageWidth: 120
@@ -106,7 +107,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/ai-sharif/ai-sharif.github.io/tree/master/content/"
+    URL: "https://github.com/ai-sharif/ai-sharif.github.io/tree/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
