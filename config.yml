@@ -67,6 +67,10 @@ params:
       این صفحه توسط دانشجویان با همکاری بعضی اساتید هوش مصنوعی اداره می‌شود. 
       در اینجا راجع به قوانین و فرم‌ها و موارد مرتبط با تحصیلات تکمیلی صحبت می‌کنیم. 
 
+      در اینجا می‌خوایم، فرآیند‌های موجود در دانشگاه رو برای دانشجو شفاف‌تر و ساده‌تر کنیم. شفاف از این نظر که ابهامی از نظر قانونی وجود نداشته باشه و ساده این که فرم‌ها و بقیه موارد مرتبط رو از یکجا برداره و استفاده کنه. 
+
+      امید بر این هست که هر کسی به سهم خود یک قدم برداره و کار بقیه رو آسون‌تر کنه. 
+
     # imageUrl: "static/images/sharif_university_logo.jpg"
     # imageWidth: 120
     # imageHeight: 120
@@ -105,7 +109,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/ai-sharif/content"
+    URL: "https://github.com/ai-sharif/ai-sharif.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
