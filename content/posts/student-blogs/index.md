@@ -2,7 +2,7 @@
 title: وبلاگ دانشجویان شریفی
 date: 2023-02-12T00:43:40+03:30
 draft: false
-tags: ["وبلاگ"]
+fatags: ["وبلاگ"]
 author: "امیر پورمند"
 description: وبلاگ دانشجویان صنعتی شریف
 cover:
